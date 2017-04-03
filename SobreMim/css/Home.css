@@ -1,0 +1,16 @@
+﻿.TituloPagina {
+    text-align: center;
+    font-family: serif;
+}
+
+.SubTitulo {
+    font-family: serif;
+}
+
+body {
+    width: 1240px;
+    margin-bottom: auto;
+    margin-top: auto;
+    margin-left: auto;
+    margin-right: auto;
+}

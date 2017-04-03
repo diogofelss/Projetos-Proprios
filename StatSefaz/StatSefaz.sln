@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StatSefaz", "StatSefaz\StatSefaz.csproj", "{7031F850-E5C5-4A55-B959-85B42830395B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "All.Tests", "All.Tests\All.Tests.csproj", "{750C383D-AD77-4533-9371-B7DBA2251445}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7031F850-E5C5-4A55-B959-85B42830395B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7031F850-E5C5-4A55-B959-85B42830395B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7031F850-E5C5-4A55-B959-85B42830395B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7031F850-E5C5-4A55-B959-85B42830395B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{750C383D-AD77-4533-9371-B7DBA2251445}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{750C383D-AD77-4533-9371-B7DBA2251445}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{750C383D-AD77-4533-9371-B7DBA2251445}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{750C383D-AD77-4533-9371-B7DBA2251445}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
